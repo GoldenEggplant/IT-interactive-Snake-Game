@@ -1,1 +1,1 @@
-# IT-interactive-Snake-Game
+### It is a classic snake game. All controls are primitive. Have a good time.
